@@ -41,3 +41,5 @@
 - `git push -u origin main ` pushing the local repo files to your remote repo in main branch 
 - `git pull origin main` : geting data from remote repo to your local repo
 - `git clone <ssh link repo> `: it copys the whole remote repo to your computer (downloads)
+
+![kitty](images/a5d217da8136c0f769a33b6a4b1752b7)
