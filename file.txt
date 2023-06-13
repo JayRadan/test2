@@ -19,3 +19,6 @@ hello this is dev a and i changed someyhing
 
 more changes from A
 
+
+
+hi this is Martin and i added this to the txt file
